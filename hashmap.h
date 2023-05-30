@@ -23,4 +23,5 @@ Pair * nextMap(HashMap * table);
 
 void enlarge(HashMap * map);
 
+
 #endif 

@@ -1,0 +1,21 @@
+Nombre, Prioridad, TareasPrecedentes
+Task1, 1, 
+Task2, 3, Task1
+Task3, 2, Task1
+Task4, 4, Task2 Task3
+Task5, 5, Task2
+Task6, 1, 
+Task7, 2, Task6
+Task8, 3, Task6
+Task9, 5, Task7 Task8
+Task10, 4, Task6
+Task11, 1, 
+Task12, 2, Task11
+Task13, 3, Task11
+Task14, 4, Task12 Task13
+Task15, 5, Task11
+Task16, 1, 
+Task17, 3, Task16
+Task18, 2, Task16
+Task19, 5, Task17 Task18
+Task20, 4, Task16
